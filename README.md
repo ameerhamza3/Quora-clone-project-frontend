@@ -50,10 +50,10 @@ and interacting with the Quora clone backend API.
 
 3. Set up the environment variables:
 - Open the `.env` file in the root directory.
-- Set the `REACT_APP_API_URL` variable to the URL of your Quora clone backend server (e.g., `http://localhost:3000/api`).
+- Set the `REACT_APP_API_URL` variable to the URL of your Quora clone backend server (e.g., `http://localhost:4000/users`).
 
 4. Start the development server:
-
+To start the application, run npm start.
 The frontend application should now be running on `http://localhost:3000`.
 
 ## Usage
